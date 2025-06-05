@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020067372650",
+    "project_id": "green-chain-8890f",
+    "storage_bucket": "green-chain-8890f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020067372650:android:9a6c68e41ca6d39da9f413",
+        "android_client_info": {
+          "package_name": "com.example.greenchain_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7Aflb0LnOVB9YtGCtAZ4f8a91NjZ5bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
